@@ -21,47 +21,47 @@
         "BOT_NAME": {
             "description": "fill with your music bot name.",
             "required": true,
-            "value": ""
+            "value": "GogeMusic"
         },
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": ""
+            "value": "2025320175"
         },
         "DATABASE_URL": {
             "description": "fill with the mongodb url you get from cloud.mongodb.com",
             "required": true,
-            "value": ""
+            "value": "mongodb+srv://sohan-04:@Savpek2004@cluster0.fiywk.mongodb.net/gogemusicbot?retryWrites=true&w=majority"
         },
         "LOG_CHANNEL": {
             "description": "create a private channel and get the channel id (give the channel username/link to bot @username_to_id_bot and get the channel id), add your bot as admin to the channel too",
             "required": true,
-            "value": ""
+            "value": "1001655243951"
         },
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "veezmusicbot"
+            "value": "gogemusicbot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "veezasisstant"
+            "value": "gogemusic_assistant"
         },
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
             "required": false,
-            "value": "https://telegra.ph/file/8628c642a266a22effd8c.png"
+            "value": "https://telegra.ph/file/bd74586a48722b572741a.jpg"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram username without @",
             "required": false,
-            "value": "dlwrml"
+            "value": "guyofcrypton"
         },
         "ALIVE_NAME": {
             "description": "fill with the nickname of your telegram account",
             "required": false,
-            "value": "Levina"
+            "value": "MRk"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -83,12 +83,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel, fill the channel username here without @",
             "required": false,
-            "value": "levinachannel"
+            "value": ""
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, fill the group username here without @",
             "required": false,
-            "value": "VeezSupportGroup"
+            "value": ""
         }
     },
     "addons": [],
