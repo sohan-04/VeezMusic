@@ -12,8 +12,8 @@
     <a href="https://app.codacy.com/gh/sohan-04/VeezMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
     <a href="https://github.com/sohan-04/VeezMusic"> <img src="https://img.shields.io/github/repo-size/sohan-04/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/sohan-04/VeezMusic/commits/main"> <img src="https://img.shields.io/github/last-commit/sohan-04/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/sohan-04/issues"> <img src="https://img.shields.io/github/issues/sohan-04/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/network/members"> <img src="https://img.shields.io/github/forks/sohan-04/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/sohan-04/VeezMusic/issues"> <img src="https://img.shields.io/github/issues/sohan-04/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/sohan-04/VeezMusic/network/members"> <img src="https://img.shields.io/github/forks/sohan-04/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
     <a href="https://github.com/sohan-04/VeezMusic/network/members"> <img src="https://img.shields.io/github/stars/sohan-04/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
