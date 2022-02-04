@@ -111,19 +111,4 @@ vim .env # fill up the ENVs (Steps: press i to enter in insert mode then edit th
 sudo python3 main.py # run the bot.
 ```
 
-### Special Credits 💖
-- [Levina](https://github.com/levina-lab): Dev
-- [Tofik](https://github.com/tofikdn): Dev
-- [Zxce3](https://github.com/Zxce3): Dev
-- [Hunter-XDD](https://github.com/HUnter-XDD): Dev
-- [Hyoka-XD](https://github.com/PratheekXD): Contributor
-- [Rajkumar](https://github.com/Awesome-RJ): Contributor
-- [Laky](https://github.com/Laky-64): PyTgCalls
-- [Dan](https://github.com/delivrance): Pyrogram
-- [Original Repo](https://github.com/callsmusic/callsmusic) CallsMusic
-- [Veez Music Bot](https://t.me/veezmusicbot) Our Music Bot
-- [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
-- [TeamDaisyX](https://github.com/TeamDaisyX) for base code
 
-### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
