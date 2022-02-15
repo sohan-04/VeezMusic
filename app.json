@@ -78,7 +78,7 @@
         "DURATION_LIMIT": {
             "description": "max duration for music to download (in minutes, default is 40).",
             "required": true,
-            "value": "40"
+            "value": "160"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, fill the channel username here without @",
